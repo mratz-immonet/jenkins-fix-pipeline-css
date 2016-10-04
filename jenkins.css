@@ -1,3 +1,8 @@
-main-panel {
-  margin: 0px;
+#main-panel {
+    margin-left:0px;
+}
+
+@media (min-width: 1170px)
+#main-panel {
+    margin-left: 0px;
 }
